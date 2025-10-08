@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="CS61A_HW_PG">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/CS61A_HW_PG/hog.zip!/" />
+      <root url="jar://$PROJECT_DIR$/CS61A_HW_PG/hw01.zip!/" />
+      <root url="jar://$PROJECT_DIR$/CS61A_HW_PG/hw03.zip!/" />
+      <root url="jar://$PROJECT_DIR$/CS61A_HW_PG/hw02.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
